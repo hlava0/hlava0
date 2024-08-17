@@ -1,1 +1,0 @@
-start vncviewer -listen 4444
